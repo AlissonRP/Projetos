@@ -1,5 +1,5 @@
 # Projetos-Faculdade
-Esse repositório contém todos os projetos desenvolvidos ao longo da minha graduação (Estatística).
+Esse repositório contém todos os principais projetos desenvolvidos ao longo da minha graduação (Estatística).
 ## [Análise da Evasão dos cursos de Psicologia do ano de 2019](https://github.com/AlissonRP/Psicologia-2019)
 Nesse projeto foi estudado a evasão dos ingressantes do curso de psicologia no ano de 2019.   
 Um dashboard contendo uma análise descritiva pode ser consultado [aqui](https://alissonrp.github.io/Psicologia-2019/)
