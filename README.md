@@ -3,7 +3,7 @@ Esse repositório contém todos os principais projetos desenvolvidos ao longo da
 ### [Análise da Evasão dos cursos de Psicologia do ano de 2019](https://github.com/AlissonRP/Psicologia-2019)
 Nesse projeto foi estudado a evasão dos ingressantes do curso de psicologia no ano de 2019.   
 Um dashboard contendo uma análise descritiva pode ser consultado [aqui](https://alissonrp.github.io/Psicologia-2019/)
-## [Modelo para prever o PIB de Estados Brasileiros](https://github.com/AlissonRP/gdp-statesBR)
+### [Modelo para prever o PIB de Estados Brasileiros](https://github.com/AlissonRP/gdp-statesBR)
 Este projeto possui uma análise **completa** do  ajuste de um modelo de regressão linear para predizer o PIB per capita dos estados brasileiros. 
 
 ### [Jai 2021](https://github.com/AlissonRP/JAI_2021)
