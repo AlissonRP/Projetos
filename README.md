@@ -13,7 +13,7 @@ Este projeto possui uma análise **completa** do  ajuste de um modelo de regress
 Repositório contendo a apresentação da Jornada acadêmica integrada da UFSM 2021, o [trabalho](https://github.com/AlissonRP/Psicologia-2019/blob/master/Relatório.pdf)
 apresentado foi um resultado da disciplina análise de dados categóricos.
 
-   _Tools: Tidyverse, Rmarkdown, Tidymodels, [mypdf1](https://github.com/AlissonRP/mypdf1)_ 
+   
 
 ## Sugestões
 Qualquer sugestão pode ser enviada pelo twitter.
