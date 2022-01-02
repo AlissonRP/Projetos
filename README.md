@@ -2,6 +2,7 @@
   * Pacote [mypdf1](https://github.com/AlissonRP/mypdf1): Pacote que disponiliza um template e funções para criação de arquivos em pdf desenvolvidos em Rmarkdown.
   * [One Piece Stats](https://github.com/AlissonRP/OP_Stats) : Criação de um banco de dados sobre os episódios de [One Piece](https://en.wikipedia.org/wiki/One_Piece), foi realizado uma [análise](https://alissonrp.github.io/OP_Stats/) descritiva completa e também desenvolvido uma [aplicação](https://alissonrp.shinyapps.io/op_beta/) web para consulta das informações dos episódios.
   * [Naruto Episodes](https://github.com/AlissonRP/naruto_episodes): Por pedido de varias pessoas, criei uma base de dados semelhante a do projeto de [One Piece](https://github.com/AlissonRP/OP_Stats), porém nesse caso a base foi publicada para acesso no [Kaggle](https://www.kaggle.com/alisson987/naruto-shippuden-rate), também foi disponibilizado uma breve análise descritiva utilizando o banco de dados.
+  * Free Stats: Em muitas áreas de estudo atualmente é fundamental saber Estatística, mas a maioria das pessoas aprende somente o básico, porém na prática precisa-se muito mais do que isso, portanto a idéia desse projeto é desenvolver  uma grade **completa** de Estatística com recomendação de bibliografia e playlists. (*sem data prevista de lançamento*)
 * ## Projetos Faculdade
   * [Análise da Evasão dos cursos de Psicologia do ano de 2019](https://github.com/AlissonRP/Psicologia-2019):
 Nesse projeto foi estudado a evasão dos ingressantes do curso de psicologia no ano de 2019.   
